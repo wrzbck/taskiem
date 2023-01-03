@@ -11,7 +11,8 @@ Every time I started a new product, project, or program I faced the same dilemma
 I decided to create the tool… just for me.
 
 # Download
-There is a binary somewhere above this text, available for free.
+There is a binary in the release section, available for free.
+Direct link: https://github.com/wrzbck/taskiem/releases/tag/Version_0.1
 
 *Taskiem author shall not be liable to Taskiem users for any lost profits, lost revenues or opportunities, downtime, or any consequential damages or costs, resulting from using Taskiem.*
 
