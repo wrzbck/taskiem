@@ -12,12 +12,12 @@ I decided to create the tool… just for me.
 
 # Download
 There is a binary in the release section, available for free.
-Direct link: https://github.com/wrzbck/taskiem/releases/tag/Version_0.1
+Direct link: https://github.com/wrzbck/taskiem/releases/tag/version_0.2
 
 *Taskiem author shall not be liable to Taskiem users for any lost profits, lost revenues or opportunities, downtime, or any consequential damages or costs, resulting from using Taskiem.*
 
 # Run
-1. Execute 'java -jar taskiem.jar' in commandline (java 17 required)
+1. Execute 'java -jar taskiem-0.2.jar --taskiem.user.email=... --taskiem.user.password=...' in commandline (java 17 required)
 2. Open a web browser and type 'localhost:8085' in address bar
 
 # How it works
@@ -46,7 +46,8 @@ Yes, probably many.
 2. It has not been tested extensively.
 
 # Roadmap
-* Resources rules: create team members along with their availability, velocity and cost. Auto assign rules.
+* Login using password [done!]
+* Resources rules: create team members along with their availability, velocity and cost. Auto assign rules. [done!]
 * Burndown analysis.
 * Multiuser. 
 * Remote estimation: ask team members (separately) to estimate tasks... offline simulation of planing poker or Whiteband delphi.
